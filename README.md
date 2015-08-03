@@ -15,7 +15,9 @@ Description:
 Installation:
 
 
-Just run this application on  a local PHP server and MySQL server depending on your OS.
+1.) Just run this application on  a local PHP server and MySQL server depending on your OS.
+
+2.) One needs to understand the concepts of file reading and writing that's about it.
 
 
 -----------------------------
