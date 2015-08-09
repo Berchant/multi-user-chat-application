@@ -6,7 +6,7 @@ Description:
 
 1.) Multi-user chatting application in php.
 
-2.) User Enter's the chat area and is ready to type any message.
+2.) User Enter's the chat area to type any message.
 
 3.) One can can see all online users.
 
